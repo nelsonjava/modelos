@@ -1,0 +1,43 @@
+{{{../index.html} Entities}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|name|Nombre de la clase|string|250|null|false|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|tabla|Tabla en la base de datos|string|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|tablaSecuencia|Tabla de secuencia|string|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|modifier|Modificador de la clase|string|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|extend|Herencia de la clase|string|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|imports|Imports de la clase|string|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|annotations|Anotaciones de la clase|string|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|source|Código fuente de la clase|string|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|description|Descripción|string|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|observaciones|Observaciones|string|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ENTITIES/Entities.html}1.0 Entities}}|1..*:Entities|Uno a Muchos Bidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ENTITIES/Entities.html}2.0 Entities}}|*..1:Entities|Muchos a Uno Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ENTITIES/Models.html}3.0 Models}}|*..1:Models|Muchos a Uno Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ENTITIES/NameQueries.html}4.0 NameQueries}}|1..*:NameQueries|Uno a Muchos Bidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ENTITIES/LinksModels.html}5.0 LinksModels}}|1..*:LinksModels|Uno a Muchos Bidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ENTITIES/Attributes.html}6.0 Attributes}}|1..*:Attributes|Uno a Muchos Bidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ENTITIES/Relationships.html}7.0 Relationships}}|1..*:Relationships|Uno a Muchos Bidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ENTITIES/Relationships.html}8.0 Relationships}}|1..*:Relationships|Uno a Muchos Bidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

@@ -1,0 +1,27 @@
+{{{../index.html} Lmds}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|codigo|Código del Documento|String|10|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre|Nombre del documento|String|100|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|version|Versión del documento|String|10|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|fecha|Fecha del Documento|Date|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|ubicacion|Ubicación del documento|String|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|link|link del documento|String|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|observaciones|Observaciones|Text|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LMD/TiposDocumentos.html}1.0 TiposDocumentos}}|*..1:TiposDocumentos|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../PROCESOS/Procesos.html}2.0 Procesos}}|*..1:Procesos|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LMD/EstadosDocumentos.html}3.0 EstadosDocumentos}}|*..1:EstadosDocumentos|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

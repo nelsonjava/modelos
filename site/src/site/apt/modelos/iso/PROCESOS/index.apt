@@ -1,0 +1,11 @@
+{{{../index.html} PROCESOS}} {{{https://github.com/nelsonfer1/iso/blob/master/uml/PROCESOS/procesos.jpg} img}}
+
+versión:rc1-1.0.0
+
+*----+-------+
+||No.||ENTIDAD||
+*----+-------+
+|1.0|{{{./TiposProcesos.html}TiposProcesos}}|
+*----+-------+
+|2.0|{{{./Procesos.html}Procesos}}|
+*----+-------+

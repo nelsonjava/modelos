@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<project name="site-gi">
+
+<publishDate format="dd MMM yyyy hh:ss" position="right" />
+<version position="right"/>
+
+<body>
+
+  <breadcrumbs>
+    <item name="Home"             href="/index.html"/>
+  </breadcrumbs>
+
+    <menu name="Main">
+      <item name="Welcome" href="/index.html"/>
+      <item name="Exit"    href="file:///D:/naif/Dropbox/home/target/site/index.html"/>
+    </menu>
+
+  <menu name="MODELOS">
+      <item name="MODELOS"        href="/modelos/index.html"/>
+  </menu>
+
+  <menu name="CDI">
+      <item name="SLIDES"             href="/slides/index.html"/>
+      <item name="ELearnging"         href="/eLearnging/index.html"/>
+      <item name="MAVEN"              href="/maven/index.html"/>
+      <item name="Jboss AS"           href="/jbossas/index.html"/>
+      <item name="Ceylon"             href="/ceylon/index.html"/>
+      <item name="Blogs"              href="/blogs/index.html"/>
+      <item name="Drools"             href="/drools/index.html"/>
+      <item name="CDI2"               href="/cdi2/index.html"/>
+      <item name="CDI3"               href="/cdi3/index.html"/>
+      <item name="JEE6"               href="/jee6/index.html"/>
+      <item name="RichFaces"          href="/richfaces/index.html"/>
+      <item name="Html5"              href="/html5/index.html"/>
+      <item name="SECURITY"           href="/security/index.html"/>
+      <item name="GitHub"             href="/cdi/github/index.html"/>
+      <item name="DeltaSpike"         href="/cdi/deltaspike/index.html"/>
+      <item name="OpenShift"          href="/cdi/openshift/index.html"/>
+      <item name="Google App Engine"  href="/cdi/appengine/index.html"/>
+      <item name="Forge"              href="/cdi/forge/index.html"/>
+      <item name="Markdown"           href="/markdown/index.html"/>
+      <item name="Android"            href="/android/index.html"/>
+      <item name="MongoDb"            href="/dbms/mongodb/index.html"/>
+      <item name="Python"             href="/prg/python/index.html"/>
+      <item name="Java"               href="/prg/java/index.html"/>
+      <item name="iReport"            href="/ireport/index.html"/>
+      <item name="AeroGear"           href="/mobile/aerogear/index.html"/>
+
+      <item name="Dbms"               href="/dbms/index.html" collapse="true">
+        <item name="MongoDb"           href="/dbms/mongodb/index.html"/>
+        <item name="MySql"             href="/dbms/mysql/index.html"/>
+      </item>
+
+      <item name="Mobile"             href="/mobile/index.html" collapse="true">
+        <item name="AeroGear"           href="/mobile/aerogear/index.html"/>
+        <item name="POH5"               href="/mobile/poh5/index.html"/>
+      </item>
+      
+      <item name="Google"             href="/google/index.html" collapse="true">
+        <item name="Developers"           href="/google/developers/index.html"/>
+        <item name="App Engine"           href="/google/app-engine/index.html"/>
+      </item>
+  </menu>
+
+  <menu name="JEE PATTERNS">
+      <item name="PATTERNS"       href="/jee-patterns/patterns/index.html"/>
+      <item name="DAO"            href="/jee-patterns/dao/index.html"/>
+  </menu>
+
+  <menu name="BOOKS">
+      <item name="BIBLIOTECA"     href="/books/biblioteca/index.html"/>
+      <item name="BUY BOOKS"      href="/books/buy/index.html"/>
+      <item name="BOOKS"          href="/books/books/index.html"/>
+  </menu>
+
+  <menu name="CMS">
+      <item name="Portlet"        href="/cms/portlet/index.html"/>
+      <item name="Joomla"         href="/cms/joomla/index.html"/>
+  </menu>
+
+  <menu name="FAQ">
+      <item name="Web service"    href="/faq/web-service.html"/>
+  </menu>
+
+
+
+
+
+</body>
+</project>
+
+
+

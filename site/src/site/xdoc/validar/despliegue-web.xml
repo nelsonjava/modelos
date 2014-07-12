@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<document>
+
+  <body>
+
+    <section name="DESPLIEGUE DEL MODELO WEB">
+        <table>
+          <tr>
+            <th width="70%">PREGUNTAS</th>
+            <th width="2%">C</th>
+            <th width="28%">OBSERVACIONES</th>
+          </tr>
+          <tr>
+            <th width="70%">El nombre del proyecto Seam cumple su sintaxis: modeloPaquete</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">El proyecto se creo en el directorio estandar</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">El proyecto permite grabar los datos de prueba del modelo</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Los datos de prueba del proyecto son adecuados</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Los datos de prueba se grabaron en el script del proyecto</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Se implementaron todas las relaciones correctamente.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+        </table>
+    </section>
+
+  </body>
+
+</document>
+
+

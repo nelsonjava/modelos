@@ -1,0 +1,27 @@
+{{{../index.html} Models}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|name|Nombre del modelo|string|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|paquete|Paquete java del modelo|string|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|codigo|Código del modelo|string|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|release|Versión del modelo|string|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|date|Fecha del modelo|Date|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|description|Descripción del modelo|string|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|observaciones|Observaciones|string|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SYSTEMS MODELS/Domains.html}1.0 Domains}}|*..1:Domains|Muchos a Uno Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SYSTEMS MODELS/Entities.html}2.0 Entities}}|1..*:Entities|Uno a Muchos Bidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SYSTEMS MODELS/LinksModels.html}3.0 LinksModels}}|1..*:LinksModels|Uno a Muchos Bidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

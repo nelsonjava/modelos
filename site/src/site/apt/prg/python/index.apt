@@ -1,0 +1,129 @@
+Python
+
+ Plataforma como Servicio o PaaS
+
+* <<LINKS>>
+
+  * {{{http://python.org/}Python Programming Language – Official Website}}
+
+  * {{{http://www.iwebsi.com/python-org-descargar-interprete-y-guias-sobre-el-lenguaje-de-programacion-de-python}Expliación del Site}}
+
+
+* <<RELEASE>>
+
+* <<WHATS NEW>>
+
+
+* <<TUTORIALES>>
+
+  * {{{http://docs.python.org.ar/tutorial/contenido.html}Tutorial de Python v2.7.0 documentation}}
+
+  * {{{http://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf}Tutorial de Python para todos}}
+
+
+
+* <<BLOGS>>
+
+
+* <<ARTICULOS>>
+
+  <<Eclipse>>
+
+  * {{{https://www.redhat.com/openshift/blogs/getting-started-with-the-openshift-eclipse-plug-in-for-java-applications-on-the-cloud}Getting Started with the OpenShift Eclipse Plug-In for Java applications on the Cloud}}
+
+  * {{{http://in.relation.to/Bloggers/JavaEE6OnOpenShift}Java EE 6 on OpenShift}}
+
+  <<JBossAS>>
+
+  * {{{http://community.jboss.org/blogs/scott.stark/2011/08/10/jbossas7-configuration-in-openshift-express}JBossAS7 Configuration in OpenShift Express}}
+
+  <<DataBases>>
+
+  * {{{https://www.redhat.com/openshift/forums/express/new-mysql-feature}New MySQL feature}}
+
+  * {{{https://www.redhat.com/openshift/blogs/whats-new-in-express-mysql-multiple-apps-and-server-side-bundling} MySQL, Multiple Apps and Server-Side Bundling}}
+
+  * {{{https://www.redhat.com/openshift/blogs/phpmyadmin-your-way-into-openshift-express-database-management-bliss}phpMyAdmin your way into OpenShift Express database management bliss}}
+
+  * {{{https://www.redhat.com/openshift/blogs/data-in-the-cloud-its-an-opportunity-not-a-problem}Data in the Cloud - It's an Opportunity not a Problem}}
+
+  * {{{https://www.redhat.com/openshift/blogs/mysql-mongodb-membase-sqlite-got-you-down-deploy-jboss-express-apps-with-oracle}MySQL, MongoDB, Membase, SQLite got you down? Deploy JBoss Express apps with Oracle}}
+
+  * {{{https://www.redhat.com/openshift/blogs/nosql-in-the-cloud-no-problem-deploying-mongodb-on-openshift-flex}NoSQL in the Cloud? No Problem - Deploying MongoDB on OpenShift Flex}}
+
+
+
+  <<Varios>>
+
+  * {{{http://planet.jboss.org/post/deploy_a_java_ee_application_on_openshift_express_with_as7_support}Deploy a Java EE application on OpenShift Express (with AS7 support)}}
+
+  * {{{https://www.redhat.com/openshift/blogs/which-paas-is-right-for-my-java-app-comparing-google-app-engine-and-openshift}Which PaaS is Right for My Java App? - Comparing Google App Engine and OpenShift}}
+
+
+  <<Videos>>
+
+
+  * {{{https://www.redhat.com/openshift/videos}Videos OpenShift}}
+
+  * {{{http://vimeo.com/27493566}Getting Started with OpenShift Express on Windows}}
+
+  * {{{http://vimeo.com/27501635}Using Java EE 6 with OpenShift Express running JBoss AS 7 (all 8 segments in one video)}}
+
+  * {{{http://vimeo.com/27605997}Using Seam 3 on OpenShift Express}}
+
+  * {{{http://www.youtube.com/watch?v=SabOGub2jiE}OpenShift Express -- Getting Started with MediaWiki}}
+
+
+* <<FORUMS>>
+
+  * {{{https://www.redhat.com/openshift/forums}Forums}}
+
+  * {{{https://www.redhat.com/openshift/forums/flex/static-ip-in-openshift-flex#comment-3745}Static IP in Openshift Flex}}
+
+  * {{{https://www.redhat.com/openshift/forums/express/how-to-use-storage-space}How to use storage space?}}
+
+
+* <<GITHUB>>
+
+  * {{{https://github.com/openshift}Git of Openshift}}
+
+
+* <<DEPLOY>>
+
+
+  * {{{https://www.redhat.com/openshift/page/openshift-application-gallery}Application Gallery}}
+
+  * {{{http://seamrocks-pmuir.rhcloud.com/}Deploy Seam 3 on OpenShift Express}} - Cloud seambooking-example
+
+  * {{{http://turkinator-ecs.rhcloud.com/}Turkinator}} - {{{https://www.redhat.com/openshift/blogs/turkinator-on-openshift-express}Turkinator}} is an open source initiative to contribute, maintain and build better software documentation the open source way.
+
+  * {{{http://acme-pmuir.rhcloud.com/}Welcome to Forge en rhcloud}}
+
+
+* <<CONTACTO>>
+
+  * jguerrero@redhat.com - Jimmy Guerrero - contacto en español.
+
+  * openshift@redhat.com - Se puede hacer preguntas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

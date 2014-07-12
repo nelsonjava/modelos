@@ -1,0 +1,21 @@
+{{{../index.html} Id}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|numero||String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|digitoVerificacion||String|20|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|fechaExpedicion||Date|null|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|fotocopia||boolean|null|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../NITS/Tiposld.html}1.0 Tiposld}}|*..1:Tiposld|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../NITS/Nits.html}2.0 Nits}}|1..*:Nits|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../FAMILIAS/Munucipios.html}3.0 Munucipios}}|*..1:Munucipios|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

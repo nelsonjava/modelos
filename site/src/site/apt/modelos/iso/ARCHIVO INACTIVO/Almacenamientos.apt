@@ -1,0 +1,17 @@
+{{{../index.html} Almacenamientos}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|codigo|Código del Almacenamiento|String|20|null|false|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre|Nombre del almacenamiento|String|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ARCHIVO INACTIVO/ArchivosInactivos.html}1.0 ArchivosInactivos}}|1..*:ArchivosInactivos|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ARCHIVO INACTIVO/TiposAlmacenamientos.html}2.0 TiposAlmacenamientos}}|*..1:TiposAlmacenamientos|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ARCHIVO INACTIVO/Ubicaciones.html}3.0 Ubicaciones}}|*..1:Ubicaciones|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

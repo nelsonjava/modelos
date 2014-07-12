@@ -1,0 +1,15 @@
+{{{../index.html} Emps}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre|Nombre de la Empresa|String|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../EMPRESAS/Empresas.html}1.0 Empresas}}|1..1:Empresas|Uno a Uno Unidireccional No.1|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SISTEMAS/Datos.html}2.0 Datos}}|1..*:Datos|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../USUARIOS/UsuariosEmps.html}3.0 UsuariosEmps}}|1..*:UsuariosEmps|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

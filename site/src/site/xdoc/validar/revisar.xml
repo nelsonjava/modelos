@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<document>
+
+  <body>
+
+    <section name="REVISAR">
+        DISEÑO DEL MODELO
+        <table>
+          <tr>
+            <th width="70%">PREGUNTAS</th>
+            <th width="2%">C</th>
+            <th width="28%">OBSERVACIONES</th>
+          </tr>
+          <tr>
+            <th width="70%">El modelo de dominio tiene un esquema gráfico.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">"El nombre de las clases cumple la sintaxis: la primera letra en mayúscula igualmente para los nombre compuestos."</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">"El nombre de la llave primaria cumple la sintaxis: empezar con la palabra id seguida del nombre de la clase."</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">La llave(s) primaria de las Clases esta marcada como tal.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Los nombres de los atributos cumple la sintaxis: la primera letra en minúscula y el nombre compuesto empieza con mayúscula.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Cada atributos tiene especificado: el tipo, la longitud, atributo único</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Los atributos que requieren anotaciones se reflejan en el modelo</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">La navegabilidad,cardinalidad y optionalidad del modelo esta correcta</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">La unidirecionalidad y bidirecionaledad de la navegabilidad esta correcta</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">En nombre del modelo es descriptivo y no causa confusión</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">"La identificación del modelo esta bien definida:paquete,código,versión,estado,fecha."</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">"Se exportó el modelo a un gráfico jpg y se imprimió desde el browser y se imprimio con el path de su ubicación, fecha de impresión y paginación."</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">El modelo se creó en el directorio estandar</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">La documentación del modelo es adecuada y clara.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">"Las relaciones muchos a muchos estan representadas en el modelo y se cumple la sintaxis: el nombre debe empezar por las palabras rel_nombre_tabla"</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+        </table>
+        IMPLEMENTACION DEL XML
+        <table>
+          <tr>
+            <th width="70%">PREGUNTAS</th>
+            <th width="2%">C</th>
+            <th width="28%">OBSERVACIONES</th>
+          </tr>
+          <tr>
+            <th width="70%">Se crearon los archivos xml de acuerdo al modelo y cumpliendo la sintaxis del mismo.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">El modelo, las clases, los atributos, etc se documentaron.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">La documentación de los archivos xml es adecuada y clara.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Al generar modelo con Ant se genera algún tipo de error.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Para cada clase se utilizaron las anotaciones que se requieren</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Se creo para cada clase sus NamedQueries con todas sus posibilidades</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Los archivos se crearon en el directorio estandar</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+        </table>
+        VALIDACION DEL MODELO EN HTML
+        <table>
+          <tr>
+            <th width="70%">PREGUNTAS</th>
+            <th width="2%">C</th>
+            <th width="28%">OBSERVACIONES</th>
+          </tr>
+          <tr>
+            <th width="70%">El objetivo o descripción del modelo es adecuada y clara</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">La documentación para cada clase es adecuada y clara</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">La identificación del modelo esta bien definida:paquete,código,versión,estado,fecha.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">El link al gráfico esta actualizado de acuerdo al modelo.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Se verificó la navegabilidad, validando la unidirecionalidad y bidirecionalidad del modelo.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Se verificó cada atributo para validar:nombre,descripción,tipo,longitud,decimales,null,unico</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Se implementaron todas las relaciones</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">La anotaciones de las clases y atributos se pudieron validar.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+        </table>
+        DESPLIEGUE DEL MODELO DATA
+        <table>
+          <tr>
+            <th width="70%">PREGUNTAS</th>
+            <th width="2%">C</th>
+            <th width="28%">OBSERVACIONES</th>
+          </tr>
+          <tr>
+            <th width="70%">Se crearon las tablas correctamente en PostgreSQL</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Se crearon las tablas correctamente en Oracle</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Se crearon las tablas correctamente en MySql</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Se crearon exactamente todas las tablas del modelo</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Se crearon exactamente todas las tablas de las secuencias</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Para cada tabla se crearon todos sus campos</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Para cada campo se creo bien:nombre,tipo,longitud,decimales,null,unico y demás restriciones</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Al desplegar el modelo, el servidor de aplicaciones no genero ningún error en NamedQueries</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+        </table>
+        DESPLIEGUE DEL MODELO WEB
+        <table>
+          <tr>
+            <th width="70%">PREGUNTAS</th>
+            <th width="2%">C</th>
+            <th width="28%">OBSERVACIONES</th>
+          </tr>
+          <tr>
+            <th width="70%">El nombre del proyecto Seam cumple su sintaxis: modeloPaquete</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">El proyecto se creo en el directorio estandar</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">El proyecto permite grabar los datos de prueba del modelo</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Los datos de prueba del proyecto son adecuados</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Los datos de prueba se grabaron en el script del proyecto</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Se implementaron todas las relaciones correctamente.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+        </table>
+        ACTUAR
+        <table>
+          <tr>
+            <th width="70%">PREGUNTAS</th>
+            <th width="2%">C</th>
+            <th width="28%">OBSERVACIONES</th>
+          </tr>
+          <tr>
+            <th width="70%">Se tomaron acciones para corregir los errores encontrados</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+        </table>
+    </section>
+
+  </body>
+
+</document>
+
+

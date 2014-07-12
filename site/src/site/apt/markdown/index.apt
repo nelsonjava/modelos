@@ -1,0 +1,102 @@
+Markdown
+
+ Markdown es un lenguaje de marcado ligero creado originalmente por John Gruber [1] y Aaron Swartz [2] que trata de conseguir la máxima legibilidad y
+ "publicabilidad" tanto en sus forma de entrada como de salida, inspirándose muchas convenciones existentes para marcar mensajes de correo electrónico
+ usando texto plano. Markdown convierte el texto marcado en documentos XHTML bien formados.
+
+
+* <<LINKS>>
+
+  * {{{http://es.wikipedia.org/wiki/Markdown}Wiki}}
+
+  * {{{http://code.google.com/p/markdownj/wiki/Maven}Getting MarkdownJ from a Maven Repository}}
+
+  * {{{http://code.google.com/p/markdownj/}MarkdownJ is the pure Java port of Markdown (a text-to-html conversion tool written by John Gruber}}
+
+* <<TUTORIALES>>
+
+  * {{{http://joedicastro.com/pages/markdown.html}Markdown}}
+
+  * {{{https://cv2.sim.ucm.es/moodle/help.php?file=markdown.html}Uso del formato Markdown para escribir páginas web}}
+
+
+* <<AWESTRUCT>>
+
+  * {{{http://awestruct.org/}Awestruct is a framework for creating static HTML sites}}
+
+  * {{{https://github.com/mojavelinux/awestruct}awestruct}}
+
+  * {{{https://github.com/mojavelinux/seamframework.org-awestruct}seamframework.org-awestruct}}
+
+  * {{{http://ceylon-lang.org/README/}How to build ceylon-lang.org}}
+
+  * {{{http://blog.emmanuelbernard.com/2011/07/awestruct-building-dynamic-static-web-sites/}Awestruct: building dynamic static web sites}}
+
+  * {{{http://rubyinstaller.org/}Rubyinstaller}}
+
+  * {{{http://rubygems.org}Welcome to your community RubyGem host}}
+
+  * {{{http://rubygems.org/gems/awestruct}awestruct 0.2.10}}
+
+  * {{{http://rubygems.org/gems/hpricot}hpricot 0.8.5}}
+
+  * {{{http://www.ruby-lang.org/es/}Ruby}}
+
+  * {{{https://github.com/oneclick/rubyinstaller/wiki/Development-Kit}Development Kit}}
+
+  * {{{http://rubyinstaller.org/downloads/archives/}Download Archives}}
+
+  * {{{https://github.com/ceylon/ceylon-lang.org/issues/}Clarify how to build ceylon-lang.org on Windows systems}}
+
+  * {{{http://www.forosdelweb.com/f105/}Forum Ruby}}
+  
+  * {{{https://github.com/ceylon/ceylon-lang.org/issues/56}Clarify how to build ceylon-lang.org on Windows systems}}
+
+
+
+* <<BLOGS>>
+
+
+* <<ARTICULOS>>
+
+  <<Eclipse>>
+
+
+  <<JBossAS>>
+
+
+  <<Varios>>
+
+
+  <<Videos>>
+
+
+* <<FORUMS>>
+
+
+* <<GITHUB>>
+
+* <<DEPLOY>>
+
+  * {{{http://www.mkyong.com/mongodb/java-mongodb-hello-world-example/}Java + MongoDB hello world example}}
+
+* <<CONTACTO>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

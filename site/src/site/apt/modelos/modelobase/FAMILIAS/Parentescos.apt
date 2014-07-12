@@ -1,0 +1,13 @@
+{{{../index.html} Parentescos}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre||String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../NITS/Personas.html}1.0 Personas}}|*..*:Personas|Muchos a Muchos Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../FAMILIAS/Familiares.html}2.0 Familiares}}|1..*:Familiares|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

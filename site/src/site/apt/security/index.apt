@@ -1,0 +1,88 @@
+SECURITY
+
+* PICKETLINK
+
+  <<LINKS>>
+
+  * {{{http://www.jboss.org/picketlink}PicketLink}}
+
+  * {{{http://www.jboss.org/picketlink/IDM.html}PicketLink IDM}}
+
+  * {{{http://anonsvn.jboss.org/repos/picketlink/idm/downloads/docs/1.0.0.GA/ReferenceGuide/en-US/html_single/index.html}Reference Guide}}
+
+  * {{{http://anonsvn.jboss.org/repos/picketlink/}Source}}
+
+
+ <<PDF>>
+
+  * {{{http://rvokal.fedorapeople.org/devconf2011/PeterSkope-PicketLink.pdf}Reference Guide}}
+
+ <<BLOGS>>
+
+  * {{{http://anil-identity.blogspot.com/}Anil Saldhana}}
+
+ <<ARTICULOS>>
+
+  * {{{http://docs.redhat.com/docs/en-US/JBoss_Enterprise_Web_Platform/}Buscar:PicketLink}}
+
+  * {{{http://anil-identity.blogspot.com/2007/11/tip-12-encrypt-datastore-passwords-in.html/}Tip 12: Encrypt Datastore Passwords in JBoss JCA}}
+
+  * {{{http://community.jboss.org/wiki/EncryptKeystorePasswordInTomcatConnector}EncryptKeystorePasswordInTomcatConnector}}
+
+  * {{{http://java.dzone.com/articles/understanding-web-security}Understanding Web Security Using web.xml Via Use Cases}}
+
+  * {{{http://software-security.sans.org/blog/2010/08/11/security-misconfigurations-java-webxml-files/}Seven Security (Mis)Configurations in Java web.xml Files}}
+
+  * {{{http://docs.redhat.com/docs/en-US/JBoss_Enterprise_Portal_Platform/5.1/html/Reference_Guide/chap-Reference_Guide-Authentication_and_Identity.html}Chapter 14. Authentication and Identity}}
+
+* CDI3
+
+  <<LINKS>>
+
+  * {{{http://seamframework.org/Seam3/SecurityModule}CDI3 security}}
+
+  * {{{https://repository.jboss.org/nexus/content/repositories/releases/org/jboss/seam/security/}Maven Dependencies}}
+
+  * {{{https://repository.jboss.org/nexus/content/groups/public/org/jboss/seam/seam-bom/}seam-bom}}
+
+  * {{{http://docs.jboss.org/seam/3/security/}Index of CDI3 security}}
+  
+  * {{{http://www.redhat.com/solutions/businessneeds/security/}Red Hat Security}}
+
+
+
+ <<REFERENCE>>
+
+  * {{{http://docs.jboss.org/seam/3/latest/reference/en-US/html/pt04.html}CDI3 Security - 3.1.0.Beta4}}
+
+  * {{{http://docs.jboss.org/seam/3/3.1.0.Beta5/reference/en-US/html/pt04.html}CDI3 Security - 3.1.0.Beta5}}
+
+ <<GITHUB>>
+
+  * {{{https://github.com/seam/security}Source CDI3 Security}}
+
+  * {{{https://github.com/sbryzak}Shane Bryzak}}
+
+  * {{{https://github.com/seam/seam-example-confbuzz}seam-example-confbuzz PicketLink}}
+
+
+ <<ARTICULOS>>
+
+  * {{{http://community.jboss.org/thread/152340}Seam Security 3.0 and PicketLink}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

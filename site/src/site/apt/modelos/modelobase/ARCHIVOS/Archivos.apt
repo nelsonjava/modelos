@@ -1,0 +1,23 @@
+{{{../index.html} Archivos}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ARCHIVOS/Files.html}1.0 Files}}|*..1:Files|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../WIKI/Contenidos.html}2.0 Contenidos}}|*..1:Contenidos|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../AREAS FISICAS/AreasFisicas.html}3.0 AreasFisicas}}|*..1:AreasFisicas|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../PORTAL/ContenidosWeb.html}4.0 ContenidosWeb}}|*..1:ContenidosWeb|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ESTRUCTURAS ORGANIZACIONALES/EstructurasOrganizacionales.html}5.0 EstructurasOrganizacionales}}|*..1:EstructurasOrganizacionales|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../EMPRESAS/Empleados.html}6.0 Empleados}}|*..1:Empleados|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../EMPRESAS/Empresas.html}7.0 Empresas}}|*..1:Empresas|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../EMPRESAS/Personas.html}8.0 Personas}}|*..1:Personas|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

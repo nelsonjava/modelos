@@ -1,0 +1,19 @@
+{{{../index.html} Municipios}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|codigo|Código del Municipio|String|20|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre|Nombre del Muncipio|String|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|codigoDane|Código Dane del Municipio.|String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../DIVISIONES POLITICAS/Departamentos.html}1.0 Departamentos}}|*..1:Departamentos|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../DIVISIONES POLITICAS/Localidades.html}2.0 Localidades}}|1..*:Localidades|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../DIVISIONES POLITICAS/TiposMunicipios.html}3.0 TiposMunicipios}}|*..1:TiposMunicipios|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

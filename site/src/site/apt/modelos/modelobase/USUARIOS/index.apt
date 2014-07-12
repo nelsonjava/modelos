@@ -1,0 +1,13 @@
+{{{../index.html} USUARIOS}} {{{https://github.com/nelsonfer1/modelo_base/blob/master/uml/usuarios/usuarios.jpg} img}}
+
+versión:rc3-1.0.0
+
+*----+-------+
+||No.||ENTIDAD||
+*----+-------+
+|1.0|{{{./Usuarios.html}Usuarios}}|
+*----+-------+
+|2.0|{{{./UsuariosEmps.html}UsuariosEmps}}|
+*----+-------+
+|3.0|{{{./Roles.html}Roles}}|
+*----+-------+

@@ -1,0 +1,15 @@
+{{{../index.html} Ubicaciones}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|codigo|Código de la Ubicación|String|20|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre|Nombre de la Ubicación|String|100|null|false|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ARCHIVO INACTIVO/Almacenamientos.html}1.0 Almacenamientos}}|1..*:Almacenamientos|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ARCHIVO INACTIVO/TiposUbicaciones.html}2.0 TiposUbicaciones}}|*..1:TiposUbicaciones|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

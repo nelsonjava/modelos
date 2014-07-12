@@ -1,0 +1,31 @@
+{{{../index.html} EntradasArchivos}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|almacenamiento|Almacenamiento|String|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|folios|Folios|String|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|fechaIngreso|Fecha de Ingreso|Date|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|fechaInicial|Fecha Inicial|Date|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|fechaFinal|Fecha Final|Date|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|fechaDepuracion|Fecha de Depuración|Date|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|observacion|Observacion|String|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|siDepurado|Documento depurado|boolean|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LMR/Lmrs.html}1.0 Lmrs}}|*..1:Lmrs|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ARCHIVO INACTIVO/AnosDepuraciones.html}2.0 AnosDepuraciones}}|*..1:AnosDepuraciones|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ARCHIVO INACTIVO/ArchivosInactivos.html}3.0 ArchivosInactivos}}|1..*:ArchivosInactivos|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ARCHIVO INACTIVO/TiposArchivos.html}4.0 TiposArchivos}}|*..1:TiposArchivos|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

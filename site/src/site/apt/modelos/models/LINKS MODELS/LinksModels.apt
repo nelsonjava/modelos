@@ -1,0 +1,31 @@
+{{{../index.html} LinksModels}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|titulo|Título del link|string|100|null|false|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|link|Link|string|250|null|false|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|observacion|Observación breve|string|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LINKS MODELS/TiposLinksModels.html}1.0 TiposLinksModels}}|*..1:TiposLinksModels|Muchos a Uno Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LINKS MODELS/Models.html}2.0 Models}}|*..1:Models|Muchos a Uno Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LINKS MODELS/Domains.html}3.0 Domains}}|*..1:Domains|Muchos a Uno Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LINKS MODELS/SystemsModels.html}4.0 SystemsModels}}|*..1:SystemsModels|Muchos a Uno Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LINKS MODELS/Attributes.html}5.0 Attributes}}|*..1:Attributes|Muchos a Uno Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LINKS MODELS/Relationships.html}6.0 Relationships}}|*..1:Relationships|Muchos a Uno Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LINKS MODELS/Cardinalities.html}7.0 Cardinalities}}|*..1:Cardinalities|Muchos a Uno Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LINKS MODELS/Entities.html}8.0 Entities}}|*..1:Entities|Muchos a Uno Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LINKS MODELS/NameQueries.html}9.0 NameQueries}}|*..1:NameQueries|Muchos a Uno Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

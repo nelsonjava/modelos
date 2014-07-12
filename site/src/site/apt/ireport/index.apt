@@ -1,0 +1,77 @@
+iReport
+
+
+
+* <<LINKS>>
+
+ * {{{http://jasperforge.org/}WELCOME TO JASPERFORGE}}
+
+
+* <<RELEASE>>
+
+* <<WHATS NEW>>
+
+
+* <<TUTORIALES>>
+
+
+
+* <<BLOGS>>
+
+
+* <<ARTICULOS>>
+
+  <<Maven>>
+
+ * {{{http://www.adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=jasperreportsMavenPlugin}JasperReports Maven Plugin}}
+
+  <<CDI3>>
+
+ * {{{http://smooth-java.blogspot.com/2012/01/add-seam-report-jasperreport-to-jee-6.html}Add Seam Report (JasperReport) to a JEE 6 Project - a simple example}}
+
+
+
+  <<DataBases>>
+
+
+  <<Varios>>
+
+
+  <<Videos>>
+
+ * {{{http://www.youtube.com/watch?v=6wzsajfCqGU}Adding database driver in Jasper iReport}}
+
+* <<FORUMS>>
+
+
+* <<GITHUB>>
+
+  *[[1]] {{{https://github.com/seam/reports/tree/develop/testsuite/src/test/java/org/jboss/seam/reports/jasperreports/qualifiers/test}Github CDI Reports Examples}}
+
+
+* <<DEPLOY>>
+
+
+* <<CONTACTO>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

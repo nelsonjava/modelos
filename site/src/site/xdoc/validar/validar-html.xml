@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<document>
+
+  <body>
+
+    <section name="VALIDACION DEL MODELO EN HTML">
+        <table>
+          <tr>
+            <th width="70%">PREGUNTAS</th>
+            <th width="1%">_</th>
+            <th width="1%">_</th>
+            <th width="1%">_</th>
+            <th width="1%">_</th>
+            <th width="1%">_</th>
+            <th width="1%">_</th>
+            <th width="1%">_</th>
+            <th width="1%">_</th>
+            <th width="1%">_</th>
+            <th width="1%">_</th>
+            <th width="1%">_</th>
+            <th width="1%">_</th>
+            <th width="1%">_</th>
+            <th width="1%">_</th>
+            <th width="1%">_</th>
+          </tr>
+          <tr>
+            <th width="70%">MODELO DE DATOS:</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Se hicieron las correciones sobre el modelo gráfico.</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">CLASES:</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El total de las clases esta correcto</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Las clases estan en el orden correcto.</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Los nombres de las clases esta correcto.</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">RELACIONES:</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El total de las relaciones esta correcta.</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El orden de las relaciones esta correcta.</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Las relaciones importadas esta correctas.</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- La cardinalidad del modelo esta correcta.</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- La navegabilidad del modelo esta correcta.</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El valor NULL de los atributos esta correcto.</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El valor único de los atributos esta correcto.</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">ATRIBUTOS:</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El total de atributos esta correcto.</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El orden de los atributos esta correcto.</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Los nombres de los atributos esta correcta.</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- La descripción de los atributos esta correcta.</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El tipo de los atributos esta correcto.</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- La longitud de los atributos esta correcto.</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- La cifra decimal de los atributos esta correcta.</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El valor NULL de los atributos esta correcto.</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El valor único de los atributos esta correcto.</th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+            <th width="1%"></th>
+          </tr>
+        </table>
+    </section>
+
+  </body>
+
+</document>
+
+

@@ -1,0 +1,13 @@
+{{{../index.html} PartesPlantillasWeb}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre||String|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../PORTALS/PlantillasWeb.html}1.0 PlantillasWeb}}|*..1:PlantillasWeb|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../PORTALS/VistasWeb.html}2.0 VistasWeb}}|1..*:VistasWeb|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

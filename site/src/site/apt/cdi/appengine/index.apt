@@ -1,0 +1,99 @@
+Google App Engine
+
+ Google App Engine permite crear y alojar aplicaciones web en los mismos sistemas con los que funcionan las aplicaciones de Google.
+ Google App Engine ofrece procesos de desarrollo y de implementación rápidos, y una administración sencilla, sin necesidad de
+ preocuparse por el hardware, las revisiones o las copias de seguridad y una ampliación sin esfuerzos.
+
+* <<LINKS>>
+
+  * {{{http://code.google.com/intl/es-ES/appengine/}Google App Engine}}
+  
+  * {{{https://appengine.google.com/}Login App Engine}} - Ingresar con una cuenta
+
+
+* <<SERVICIOS>>
+
+
+
+* <<RELEASE>>
+
+
+
+* <<WHATS NEW>>
+
+
+* <<TUTORIALES>>
+
+
+
+* <<BLOGS>>
+
+
+
+
+* <<ARTICULOS>>
+
+  <<Jee>>
+
+  * {{{http://code.google.com/p/googleappengine/wiki/WillItPlayInJava}Java Enterprise Edition (Java EE) Technologies}}
+
+  <<RichFaces>>
+
+  * {{{http://community.jboss.org/wiki/HowtouseRichFaces40withGoogleAppEngine}How to use RichFaces 4.0 with Google App Engine}}
+
+  * {{{http://in.relation.to/Bloggers/GoogleApplicationEngineSupportWithRichFaces4}Google Application Engine Support with RichFaces 4}}
+
+  <<DataBases>>
+
+
+  <<Varios>>
+
+  * {{{http://relation.to/14435.lace}Weld 1.0.1 and CDI TCK 1.0.1 published}} - Google App Engine
+
+  * {{{http://in.relation.to/Bloggers/WeldJSF20AndGoogleAppEngineNavigatingTheMinefieldPart1#comment17632}Weld, JSF 2.0 and Google App Engine - Navigating the minefield (Part 1)}}
+
+  * {{{http://in.relation.to/Bloggers/WeldJSF20AndGoogleAppEngineNavigatingTheMinefieldPart2}Weld, JSF 2.0 and Google App Engine - Navigating the minefield (Part 2)}}
+
+
+  <<Videos>>
+
+
+
+* <<FORUMS>>
+
+
+* <<GITHUB>>
+
+
+
+
+* <<DEPLOY>>
+
+  * {{{http://weld-numberguess.appspot.com/home.jsf}Guess a number}}
+
+
+
+
+* <<CONTACTO>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+{{{../index.html} TELEFONOS}} {{{https://github.com/nelsonfer1/modelo_base/blob/master/uml/telefonos/telefonos.jpg} img}}
+
+versión:rc3-1.0.0
+
+*----+-------+
+||No.||ENTIDAD||
+*----+-------+
+|1.0|{{{./Celulares.html}Celulares}}|
+*----+-------+
+|2.0|{{{./Celularess.html}Celularess}}|
+*----+-------+
+|3.0|{{{./Telefonoss.html}Telefonoss}}|
+*----+-------+
+|4.0|{{{./Telefonos.html}Telefonos}}|
+*----+-------+

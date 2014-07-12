@@ -1,0 +1,15 @@
+{{{../index.html} TiposAreasFisicas}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre||String|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../AREAS FISICAS/TIposAreasFisicas.html}1.0 TIposAreasFisicas}}|1..*:TIposAreasFisicas|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../AREAS FISICAS/TiposAreasFisicas.html}2.0 TiposAreasFisicas}}|*..1:TiposAreasFisicas|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../AREAS FISICAS/AreasFisicas.html}3.0 AreasFisicas}}|1..*:AreasFisicas|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

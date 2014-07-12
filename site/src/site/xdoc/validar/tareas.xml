@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<document>
+
+  <body>
+
+    <section name="TAREAS">
+        LISTA DE CHEQUEO v:ga-1.0.0
+        <table>
+          <tr>
+            <th width="70%">TAREAS</th>
+            <th width="2%">C</th>
+            <th width="28%">OBSERVACIONES</th>
+          </tr>
+          <tr>
+            <th width="70%">- Habilitar Hosting para el dominio .co</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Publicar y actualizar en https://www.github.com/</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Modificar el naif  generar site.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Estandarizar el site para poderlo publicar.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Publicar el sitio .co</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Publicar las listas de chequeo.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Publicar las listas de chequeo.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Revisar las listas de chequeo en excel en los diferentes lugares</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Relacionar los repositorios de los miembros de RedHat </th>
+            <th width="2%"></th>
+            <th width="28%">Ejemplo: https://github.com/stuartwdouglas</th>
+          </tr>
+          <tr>
+            <th width="70%">- Migrar SQL Server 2005 a SQL Server 2008</th>
+            <th width="2%"></th>
+            <th width="28%">Documentar el proceso.</th>
+          </tr>
+          <tr>
+            <th width="70%">- </th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- </th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- </th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- </th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- </th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- </th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- </th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+        </table>
+    </section>
+
+  </body>
+
+</document>
+
+

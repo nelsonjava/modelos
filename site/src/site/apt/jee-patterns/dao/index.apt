@@ -1,0 +1,37 @@
+DAO - Data Access Object
+
+* DEFINICION
+
+* LINKS
+
+  [[1]] {{{ http://java.sun.com/blueprints/corej2eepatterns/Patterns/DataAccessObject.html}Core JEE Patterns - Data Access Object}}
+
+  [[1]] {{{http://www.genbetadev.com/java-j2ee/spring-framework-el-patrn-dao}Spring Framework: El patrón DAO I}}
+
+  [[1]] {{{http://www.genbetadev.com/tag/spring-tutorial}Spring Framework: El patrón DAO II}}
+
+
+* BIBLOGRAFIA
+
+  [[1]] {{{ http://www.amazon.com/Core-J2EE-Patterns-Practices-Strategies/dp/0131422464/ref=sr_1_1?ie=UTF8&qid=1321760530&sr=8-1}
+  Core J2EE Patterns: Best Practices and Design Strategies (2nd Edition) [Hardcover]}}
+  Pág 13 Table 1-1 Patterns in the J2EE Pattern Catalog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

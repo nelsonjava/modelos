@@ -1,0 +1,13 @@
+{{{../index.html} PERSONAS ESTUDIOS}} {{{https://github.com/nelsonfer1/modelo_base/blob/master/uml/personas_estudios/personas_estudios.jpg} img}}
+
+versión:rc3-1.0.0
+
+*----+-------+
+||No.||ENTIDAD||
+*----+-------+
+|1.0|{{{./Profesiones.html}Profesiones}}|
+*----+-------+
+|2.0|{{{./Estudios.html}Estudios}}|
+*----+-------+
+|3.0|{{{./TiposEstudios.html}TiposEstudios}}|
+*----+-------+

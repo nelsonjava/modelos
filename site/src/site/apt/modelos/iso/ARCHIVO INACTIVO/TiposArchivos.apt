@@ -1,0 +1,11 @@
+{{{../index.html} TiposArchivos}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre|Nombre del tipo de archivo|String|20|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ARCHIVO INACTIVO/EntradasArchivos.html}1.0 EntradasArchivos}}|1..*:EntradasArchivos|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

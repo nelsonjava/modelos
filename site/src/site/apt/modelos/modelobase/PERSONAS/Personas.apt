@@ -1,0 +1,57 @@
+{{{../index.html} Personas}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|primerNombre||String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|segundoNombre||String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|primerApellido||String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|segundoApellido||String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|nombreCompleto||String|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|fechaNacimiento||Date|null|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|fallecido||boolean|null|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|fechadefuncion||Datetime|null|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|sexo||String|2|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|tipoRh||String|6|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|estrato||String|2|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|estadoCivil||String|10|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../TELEFONOS/Celulares.html}1.0 Celulares}}|1..*:Celulares|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../TELEFONOS/Telefonos.html}2.0 Telefonos}}|1..*:Telefonos|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../FAMILIAS/Contactos.html}3.0 Contactos}}|1..*:Contactos|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ARCHIVOS/Archivos.html}4.0 Archivos}}|1..*:Archivos|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../PERSONAS ESTUDIOS/Estudios.html}5.0 Estudios}}|1..*:Estudios|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../AREAS FISICAS/Llaves.html}6.0 Llaves}}|1..*:Llaves|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ESTRUCTURAS ORGANIZACIONALES/EstructurasOrganizacionales.html}7.0 EstructurasOrganizacionales}}|1..*:EstructurasOrganizacionales|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LINKS/Www.html}8.0 Www}}|1..*:Www|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../DIVICIONES POLITICAS/Municipios.html}9.0 Municipios}}|1..1:Municipios|Uno a Uno Unidireccional No.1|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../FAMILIAS/familiass.html}10.0 familiass}}|1..*:familiass|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../DIRECCIONES/Direccioness.html}11.0 Direccioness}}|1..*:Direccioness|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../NITS/Nits.html}12.0 Nits}}|1..*:Nits|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../USUARIOS/Usuarios.html}13.0 Usuarios}}|1..1:Usuarios|Uno a Uno Bidireccional No.2|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

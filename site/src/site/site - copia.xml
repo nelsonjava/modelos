@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="site-gi">
+
+  <publishDate format="dd MMM yyyy hh:ss" position="right" />
+  <version position="right"/>
+
+  <body>
+
+    <menu name="MODELO BASE">
+
+      <item name="SISTEMAS" href="/sistemas/Sistemas.html" collapse="true">
+        <item name="TiposSistemas"    href="/sistemas/TiposSistemas.html"/>
+        <item name="Sistemas"         href="/sistemas/Sistemas.html"/>
+        <item name="Emps"             href="/sistemas/Emps.html"/>
+        <item name="Datos"            href="/sistemas/Datos.html"/>
+        <item name="OpcionesSistemas" href="/sistemas/OpcionesSistemas.html"/>
+        <item name="Opciones"         href="/sistemas/Opciones.html"/>
+        <item name="TiposOpciones"    href="/sistemas/TiposOpciones.html"/>
+      </item>
+  
+      <item name="Plugin Developer Centre" href="/plugin-developers/index.html" collapse="true">
+        <item name="Your First Mojo" href="/guides/plugin/guide-java-plugin-development.html" />
+        <item name="Mojo API" href="/developers/mojo-api-specification.html" />
+        <item name="Maven API" href="/ref/current/index.html"/>
+      </item>
+  
+      <item name="USUARIOS" href="/sistemas/Sistemas.html" collapse="true">
+        <item name="Usuarios"         href="/usuarios/Usuarios.html"/>
+        <item name="UsuariosEmps"     href="/usuarios/UsuariosEmps.html"/>
+        <item name="Roles"            href="/usuarios/Roles.html"/>
+      </item>
+  
+      <item name="PERMISOS" collapse="true">
+        <item name="Permisos"         href="/permisos/Permisos.html"/>
+      </item>
+  
+      <item name="DIVISIONES POLITICAS" collapse="true">
+        <item name="Permisos"         href="/permisos/Permisos.html"/>
+      </item>
+  
+      <item name="DIRECCIONES" collapse="true">
+        <item name="Permisos"         href="/permisos/Permisos.html"/>
+      </item>
+  
+      <item name="TELEFONOS" collapse="true">
+        <item name="Permisos"         href="/permisos/Permisos.html"/>
+      </item>
+  
+      <item name="NITS" collapse="true">
+        <item name="Permisos"         href="/permisos/Permisos.html"/>
+      </item>
+  
+      <item name="FAMILIAS" collapse="true">
+        <item name="Permisos"         href="/permisos/Permisos.html"/>
+      </item>
+  
+      <item name="PERSONAS" collapse="true">
+        <item name="Permisos"         href="/permisos/Permisos.html"/>
+      </item>
+  
+      <item name="PERSONAS ESTUDIOS" collapse="true">
+        <item name="Permisos"         href="/permisos/Permisos.html"/>
+      </item>
+  
+      <item name="EMPRESAS" collapse="true">
+        <item name="Permisos"         href="/permisos/Permisos.html"/>
+      </item>
+  
+      <item name="ESTRUCTURAS ORGANIZACIONALES" collapse="true">
+        <item name="Permisos"         href="/permisos/Permisos.html"/>
+      </item>
+  
+      <item name="EMPRESAS CLASIFICACIONES" collapse="true">
+        <item name="Permisos"         href="/permisos/Permisos.html"/>
+      </item>
+  
+      <item name="AREAS FISICAS" collapse="true">
+        <item name="Permisos"         href="/permisos/Permisos.html"/>
+      </item>
+  
+      <item name="ARCHIVOS" collapse="true">
+        <item name="Permisos"         href="/permisos/Permisos.html"/>
+      </item>
+  
+      <item name="LINKS" collapse="true">
+        <item name="Permisos"         href="/permisos/Permisos.html"/>
+      </item>
+  
+      <item name="MAILS" collapse="true">
+        <item name="Permisos"         href="/permisos/Permisos.html"/>
+      </item>
+  
+      <item name="WIKI" collapse="true">
+        <item name="Permisos"         href="/permisos/Permisos.html"/>
+      </item>
+  
+      <item name="PORTAL" collapse="true">
+        <item name="Permisos"         href="/permisos/Permisos.html"/>
+      </item>
+
+    </menu>
+
+  </body>
+
+</project>

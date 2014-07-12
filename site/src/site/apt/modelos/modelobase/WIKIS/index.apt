@@ -1,0 +1,15 @@
+{{{../index.html} WIKIS}} {{{https://github.com/nelsonfer1/modelo_base/blob/master/uml/wiki/wiki.jpg} img}}
+
+versión:rc3-1.0.0
+
+*----+-------+
+||No.||ENTIDAD||
+*----+-------+
+|1.0|{{{./TiposContenidos.html}TiposContenidos}}|
+*----+-------+
+|2.0|{{{./Contenidos.html}Contenidos}}|
+*----+-------+
+|3.0|{{{./Bibliografias.html}Bibliografias}}|
+*----+-------+
+|4.0|{{{./Glosarios.html}Glosarios}}|
+*----+-------+

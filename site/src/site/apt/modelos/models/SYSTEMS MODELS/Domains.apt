@@ -1,0 +1,23 @@
+{{{../index.html} Domains}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|name|Nombre del sistema|string|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|codigo|Código del sistema|string|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|release|Versión del sistema|string|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|fecha|Fecha del sistema|Date|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|description|Descripción del sistema|string|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SYSTEMS MODELS/SystemsModels.html}1.0 SystemsModels}}|*..1:SystemsModels|Muchos a Uno Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SYSTEMS MODELS/Models.html}2.0 Models}}|1..*:Models|Uno a Muchos Bidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SYSTEMS MODELS/LinksModels.html}3.0 LinksModels}}|1..*:LinksModels|Uno a Muchos Bidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

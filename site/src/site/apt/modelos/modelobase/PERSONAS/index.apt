@@ -1,0 +1,9 @@
+{{{../index.html} PERSONAS}} {{{https://github.com/nelsonfer1/modelo_base/blob/master/uml/personas/personas.jpg} img}}
+
+versión:rc3-1.0.0
+
+*----+-------+
+||No.||ENTIDAD||
+*----+-------+
+|1.0|{{{./Personas.html}Personas}}|
+*----+-------+

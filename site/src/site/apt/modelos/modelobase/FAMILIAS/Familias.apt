@@ -1,0 +1,15 @@
+{{{../index.html} Familias}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre||String|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|observacion||String|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../FAMILIAS/Familiares.html}1.0 Familiares}}|1..*:Familiares|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../FAMILIAS/PersonasFamilias.html}2.0 PersonasFamilias}}|1..*:PersonasFamilias|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

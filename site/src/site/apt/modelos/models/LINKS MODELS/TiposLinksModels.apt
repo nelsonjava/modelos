@@ -1,0 +1,11 @@
+{{{../index.html} TiposLinksModels}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre|Nombre del tipo del link|string|100|null|false|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LINKS MODELS/LinksModels.html}1.0 LinksModels}}|1..*:LinksModels|Uno a Muchos Bidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

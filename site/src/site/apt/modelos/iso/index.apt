@@ -1,0 +1,15 @@
+{{{../index.html} ISO}} {{{http://190.90.25.27:8088/naif-rc1/home.java} WEB}} {{{http://192.168.1.242:8088/naif-rc1/home.java} LOCAL}}
+
+versión:rc3-1.0.0
+
+*----+-------+--------+---------+
+||No.||MODELO||PAQUETE||VERSION||
+*----+-------+--------+---------+
+|1.0|{{{./PROCESOS/index.html}PROCESOS}}|com.naif.iso.procesos|rc1-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|2.0|{{{./LMD/index.html}LMD}}|com.naif.iso.lmd|rc1-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|3.0|{{{./LMR/index.html}LMR}}|com.naif.iso.lmr|rc1-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|4.0|{{{./ARCHIVO INACTIVO/index.html}ARCHIVO INACTIVO}}|com.naif.iso.archivoinactivo|rc1-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+

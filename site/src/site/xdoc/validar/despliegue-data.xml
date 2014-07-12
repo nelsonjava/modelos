@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<document>
+
+  <body>
+
+    <section name="DESPLIEGUE DEL MODELO DATA">
+        <table>
+          <tr>
+            <th width="70%">PREGUNTAS</th>
+            <th width="2%">C</th>
+            <th width="28%">OBSERVACIONES</th>
+          </tr>
+          <tr>
+            <th width="70%">- En el campo código del sistema web esta registrado el estado actual de digitación del modelo</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+
+          <tr>
+            <th width="70%">Se crearon las tablas correctamente en PostgreSQL</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Se crearon las tablas correctamente en PostgreSQL</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Se crearon las tablas correctamente en Oracle</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Se crearon las tablas correctamente en MySql</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Se crearon exactamente todas las tablas del modelo</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Se crearon exactamente todas las tablas de las secuencias</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Para cada tabla se crearon todos sus campos</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Para cada campo se creo bien:nombre,tipo,longitud,decimales,null,unico y demás restriciones</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">Al desplegar el modelo, el servidor de aplicaciones no genero ningún error en NamedQueries</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+        </table>
+    </section>
+
+  </body>
+
+</document>
+
+

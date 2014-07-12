@@ -1,0 +1,47 @@
+{{{../index.html} MODELO BASE}} {{{http://190.90.25.27:8088/naif-rc1/home.java} WEB}} {{{http://192.168.1.242:8088/naif-rc1/home.java} LOCAL}}
+
+versión:rc1-1.0.0
+
+*----+-------+--------+---------+
+||No.||MODELO||PAQUETE||VERSION||
+*----+-------+--------+---------+
+|1.0|{{{./SISTEMAS/index.html}SISTEMAS}}|com.naif.base.sistemas|rc3-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|2.0|{{{./USUARIOS/index.html}USUARIOS}}|com.naif.base.usuarios|rc3-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|3.0|{{{./PERMISOS/index.html}PERMISOS}}|com.naif.base.permisos|rc3-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|4.0|{{{./DIVISIONES POLITICAS/index.html}DIVISIONES POLITICAS}}|com.naif.base.divisionespoliticas|rc3-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|5.0|{{{./DIRECCIONES/index.html}DIRECCIONES}}|com.naif.base.direcciones|rc3-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|6.0|{{{./TELEFONOS/index.html}TELEFONOS}}|com.naif.base.telefonos|rc3-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|7.0|{{{./NITS/index.html}NITS}}|com.naif.base.nits|rc3-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|8.0|{{{./FAMILIAS/index.html}FAMILIAS}}|com.naif.base.familias|rc3-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|9.0|{{{./PERSONAS/index.html}PERSONAS}}|com.naif.base.personas|rc3-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|10.0|{{{./PERSONAS ESTUDIOS/index.html}PERSONAS ESTUDIOS}}|com.naif.base.personasestudios|rc3-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|11.0|{{{./EMPRESAS/index.html}EMPRESAS}}|com.naif.base.empresas|rc3-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|12.0|{{{./EMPRESAS CLASIFICACIONES/index.html}EMPRESAS CLASIFICACIONES}}|com.naif.base.empresasclasificaciones|rc3-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|13.0|{{{./ESTRUCTURAS ORGANIZACIONALES/index.html}ESTRUCTURAS ORGANIZACIONALES}}|com.naif.base.estructurasorganizacionales|rc3-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|14.0|{{{./AREAS FISICAS/index.html}AREAS FISICAS}}|com.naif.base.areasfisicas|rc3-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|15.0|{{{./ARCHIVOS/index.html}ARCHIVOS}}|com.naif.base.archivos|rc3-1.0.1|
+*-----------+---------------------+--------+----+----+-----+------+
+|16.0|{{{./LINKS/index.html}LINKS}}|com.naif.base.links|rc3-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|17.0|{{{./MAILS/index.html}MAILS}}|com.naif.base.mails|rc3-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|18.0|{{{./WIKIS/index.html}WIKIS}}|com.naif.base.wikis|rc3-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|19.0|{{{./PORTALS/index.html}PORTALS}}|com.naif.base.portals|rc3-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|20.0|{{{./CALENDARIOS/index.html}CALENDARIOS}}|com.naif.base.calendarios||
+*-----------+---------------------+--------+----+----+-----+------+

@@ -1,0 +1,15 @@
+{{{../index.html} Llaves}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|codigo||String|20|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|observaciones||Text|null|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../AREAS FISICAS/PuertasAreasFisicas.html}1.0 PuertasAreasFisicas}}|*..1:PuertasAreasFisicas|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ESTRUCTURAS ORGANIZACIONALES/EstructuraOrganizacionales.html}2.0 EstructuraOrganizacionales}}|*..1:EstructuraOrganizacionales|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

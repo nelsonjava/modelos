@@ -1,0 +1,29 @@
+{{{../index.html} Contenidos}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|codigo||String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|titulo||String|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|contenido||Text|null|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|tiempo ||Integer|null|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../WIKIS/Contenidos.html}1.0 Contenidos}}|1..*:Contenidos|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../WIKIS/Contenidos.html}2.0 Contenidos}}|*..1:Contenidos|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../WIKIS/TiposContenidos.html}3.0 TiposContenidos}}|1..*:TiposContenidos|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../MODELO ARCHIVOS/Archivos.html}4.0 Archivos}}|1..*:Archivos|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LINKS/Www.html}5.0 Www}}|*..1:Www|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../WIKIS/Bibliografias.html}6.0 Bibliografias}}|1..*:Bibliografias|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../WIKIS/Glosarios.html}7.0 Glosarios}}|*..*:Glosarios|Muchos a Muchos Bidireccional No.4|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

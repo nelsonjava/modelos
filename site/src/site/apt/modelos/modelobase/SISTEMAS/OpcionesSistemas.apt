@@ -1,0 +1,13 @@
+{{{../index.html} OpcionesSistemas}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|siPrincipal|Opción principal|boolean|null|null|false|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SISTEMAS/Sistemas.html}1.0 Sistemas}}|*..1:Sistemas|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SISTEMAS/Opciones.html}2.0 Opciones}}|*..1:Opciones|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

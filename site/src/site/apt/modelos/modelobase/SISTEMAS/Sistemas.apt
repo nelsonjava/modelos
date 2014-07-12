@@ -1,0 +1,29 @@
+{{{../index.html} Sistemas}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|codigo|Código del Sistema|String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre|Nombre del Sistema|String|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|titulo|Título del Sistema|String|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|descripcion|Descripción del Sistema|Text|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SISTEMAS/Sistemas.html}1.0 Sistemas}}|1..*:Sistemas|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SISTEMAS/Sistemas.html}2.0 Sistemas}}|*..1:Sistemas|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SISTEMAS/TiposSistemas.html}3.0 TiposSistemas}}|*..1:TiposSistemas|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SISTEMAS/Datos.html}4.0 Datos}}|1..*:Datos|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../PERMISOS/Permisos.html}5.0 Permisos}}|1..*:Permisos|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SISTEMAS/OpcionesSistemas.html}6.0 OpcionesSistemas}}|1..*:OpcionesSistemas|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../USUARIOS/Roles.html}7.0 Roles}}|*..*:Roles|Muchos a Muchos Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

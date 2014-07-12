@@ -1,0 +1,15 @@
+{{{../index.html} UsuariosEmps}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|enabled|Si Usuario Habilitado|boolean|null|null|false|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|ultimoIngreso|Ultimo Ingreso del Usuario|Datetime|null|null|false|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SISTEMAS/Emps.html}1.0 Emps}}|*..1:Emps|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../USUARIOS/Usuarios.html}2.0 Usuarios}}|*..1:Usuarios|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

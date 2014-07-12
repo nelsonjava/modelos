@@ -1,0 +1,23 @@
+{{{../index.html} AreasFisicas}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|codigo||String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre||String|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|observaciones||Text|null|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../AREAS FISICAS/AreasFisicas.html}1.0 AreasFisicas}}|1..*:AreasFisicas|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../AREAS FISICAS/AreasFisicas.html}2.0 AreasFisicas}}|*..1:AreasFisicas|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../AREAS FISICAS/TiposAreasFisicas.html}3.0 TiposAreasFisicas}}|*..1:TiposAreasFisicas|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../AREAS FISICAS/PuertasAreasFisicas.html}4.0 PuertasAreasFisicas}}|1..*:PuertasAreasFisicas|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ARCHIVOS/Archivos.html}5.0 Archivos}}|1..*:Archivos|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

@@ -1,0 +1,11 @@
+{{{../index.html} EMPRESAS CLASIFICACIONES}} {{{https://github.com/nelsonfer1/modelo_base/blob/master/uml/empresas_clasificaciones/empresas_clasificaciones.jpg} img}}
+
+versión:rc3-1.0.0
+
+*----+-------+
+||No.||ENTIDAD||
+*----+-------+
+|1.0|{{{./TiposEmpresas.html}TiposEmpresas}}|
+*----+-------+
+|2.0|{{{./EmpresasClasificaciones.html}EmpresasClasificaciones}}|
+*----+-------+

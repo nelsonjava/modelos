@@ -1,0 +1,17 @@
+{{{../index.html} DOMAIN MODELS}} {{{http://190.90.25.27:8088/naif-rc1/home.java} WEB}} {{{http://192.168.1.242:8088/naif-rc1/home.java} LOCAL}}
+
+versión:
+
+*----+-------+--------+---------+
+||No.||MODELO||PAQUETE||VERSION||
+*----+-------+--------+---------+
+|1.0|{{{./SYSTEMS MODELS/index.html}SYSTEMS MODELS}}|com.naif.domans.models|rc2-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|2.0|{{{./LINKS MODELS/index.html}LINKS MODELS}}|com.naif.domans.models|rc2-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|3.0|{{{./ENTITIES/index.html}ENTITIES}}|com.naif.domans.models|rc2-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|4.0|{{{./ATTRIBUTES/index.html}ATTRIBUTES}}|com.naif.domans.models|rc2-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+
+|5.0|{{{./RELATIONSHIPS/index.html}RELATIONSHIPS}}|com.naif.domans.models|rc2-1.0.0|
+*-----------+---------------------+--------+----+----+-----+------+

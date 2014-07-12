@@ -1,0 +1,25 @@
+{{{../index.html} PORTAL}} {{{https://github.com/nelsonfer1/modelo_base/blob/master/uml/portal/portal.jpg} img}}
+
+versión:rc3-1.0.0
+
+*----+-------+
+||No.||ENTIDAD||
+*----+-------+
+|null|{{{./PartesPlantillasWeb.html}PartesPlantillasWeb}}|
+*----+-------+
+|null|{{{./PlantillasWeb.html}PlantillasWeb}}|
+*----+-------+
+|null|{{{./Popups.html}Popups}}|
+*----+-------+
+|null|{{{./VistasWeb.html}VistasWeb}}|
+*----+-------+
+|null|{{{./AreasWeb.html}AreasWeb}}|
+*----+-------+
+|null|{{{./PaginasWeb.html}PaginasWeb}}|
+*----+-------+
+|null|{{{./ContenidosWeb.html}ContenidosWeb}}|
+*----+-------+
+|null|{{{./TiposContenidosWeb.html}TiposContenidosWeb}}|
+*----+-------+
+|null|{{{./ArchivosWeb.html}ArchivosWeb}}|
+*----+-------+

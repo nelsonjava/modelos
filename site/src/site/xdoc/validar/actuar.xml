@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<document>
+
+  <body>
+
+    <section name="ACTUAR">
+        <table>
+          <tr>
+            <th width="70%">PREGUNTAS</th>
+            <th width="2%">C</th>
+            <th width="28%">OBSERVACIONES</th>
+          </tr>
+          <tr>
+            <th width="70%">Se tomaron acciones para corregir los errores encontrados</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+        </table>
+    </section>
+
+  </body>
+
+</document>
+
+

@@ -1,0 +1,49 @@
+Jboss
+
+
+* <<LINKS>>
+
+  * {{{http://www.jboss.org/jbossas}JBoss AS – Official Website}}
+
+* <<ARTICULOS>>
+
+  <<Varios>>
+  
+  * {{{https://issues.jboss.org/browse/AS7-1044}Add ability to launch H2 console from AS7 console for standalone mode}}
+
+  * {{{https://community.jboss.org/wiki/UsingTheH2Console}Using the H2 Console}}
+  
+  * {{{https://github.com/jbossas/quickstart/tree/master/h2-console}h2-console: Example Using the H2 Console with JBoss}}
+
+  * {{{http://in.relation.to/tag/jbossas7}jbossas7}}
+
+  * {{{http://in.relation.to/tag/as7}as7}}
+
+  * {{{http://in.relation.to/Bloggers/MyJBossAS7Experiments}My JBossAS7 experiments}}
+
+  * {{{http://in.relation.to/Bloggers/WantToLearnAboutJBossAS7NowYouCan}Want to learn about JBoss AS 7? Now you can!}}
+
+  * {{{http://in.relation.to/Bloggers/WantToLearnAboutJBossAS7}Want to learn about JBoss AS 7?}}
+
+* <<JCA>>
+
+  * {{{http://in.relation.to/Bloggers/JBossAS7AndJCA}JBoss AS7 and JCA}}
+
+  * {{{http://www.javalinux.it/wordpress/2011/07/14/how-to-create-an-manage-datasources-in-as7/}How to create and manage datasources in AS7}}
+
+
+* <<CDI 2>>
+
+  * {{{http://community.jboss.org/blogs/marek-novotny/2011/07/15/seam-2-jpa-example-on-jboss-as7}Seam 2 JPA example on JBoss AS7}}
+
+
+* <<SLIDES>>
+
+  * {{{http://www.slideshare.net/jazinner/jboss-as7-osdc-2011}JBossApplicationServer(AS)7 - November 17,2011}}
+
+
+
+
+
+
+

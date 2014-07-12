@@ -1,0 +1,19 @@
+{{{../index.html} Www}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LINKS/Links.html}1.0 Links}}|*..1:Links|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LINKS/Bibliografias.html}2.0 Bibliografias}}|*..1:Bibliografias|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LINKS/Contenidos.html}3.0 Contenidos}}|*..1:Contenidos|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LINKS/EstructurasOrganizacionales.html}4.0 EstructurasOrganizacionales}}|*..1:EstructurasOrganizacionales|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../EMPRESAS/Personas.html}5.0 Personas}}|*..1:Personas|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../EMPRESAS/Empresas.html}6.0 Empresas}}|*..1:Empresas|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

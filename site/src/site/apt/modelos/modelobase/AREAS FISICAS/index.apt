@@ -1,0 +1,15 @@
+{{{../index.html} AREAS FISICAS}} {{{https://github.com/nelsonfer1/modelo_base/blob/master/uml/areas_fisicas/areas_fisicas.jpg} img}}
+
+versión:rc3-1.0.0
+
+*----+-------+
+||No.||ENTIDAD||
+*----+-------+
+|1.0|{{{./TiposAreasFisicas.html}TiposAreasFisicas}}|
+*----+-------+
+|2.0|{{{./AreasFisicas.html}AreasFisicas}}|
+*----+-------+
+|3.0|{{{./PuertasAreasFisicas.html}PuertasAreasFisicas}}|
+*----+-------+
+|4.0|{{{./Llaves.html}Llaves}}|
+*----+-------+

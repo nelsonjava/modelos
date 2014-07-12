@@ -1,0 +1,23 @@
+{{{../index.html} ARCHIVO INACTIVO}} {{{https://dl-web.dropbox.com/get/modelos/uml/iso/uml/ARCHIVO-INACTIVO/archivoinactivo.jpg?w=dfc0d28a} img}}
+
+versión:rc1-1.0.0
+
+*----+-------+
+||No.||ENTIDAD||
+*----+-------+
+|1.0|{{{./EntradasArchivos.html}EntradasArchivos}}|
+*----+-------+
+|2.0|{{{./AnosDepuraciones.html}AnosDepuraciones}}|
+*----+-------+
+|3.0|{{{./TiposArchivos.html}TiposArchivos}}|
+*----+-------+
+|4.0|{{{./ArchivosInactivos.html}ArchivosInactivos}}|
+*----+-------+
+|5.0|{{{./Almacenamientos.html}Almacenamientos}}|
+*----+-------+
+|6.0|{{{./TiposAlmacenamientos.html}TiposAlmacenamientos}}|
+*----+-------+
+|7.0|{{{./Ubicaciones.html}Ubicaciones}}|
+*----+-------+
+|8.0|{{{./TiposUbicaciones.html}TiposUbicaciones}}|
+*----+-------+

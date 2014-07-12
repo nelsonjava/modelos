@@ -1,0 +1,15 @@
+{{{../index.html} TiposContenidos}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|codigo||String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre||String|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../WIKI/TiposContenidos.html}TiposContenidos}}|TiposContenidos|Uno a Muchos Bidireccional No.6||0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../WIKI/Contenidos.html}Contenidos}}|Contenidos|Uno a Uno Unidireccional No.1||0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

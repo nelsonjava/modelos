@@ -1,0 +1,17 @@
+{{{../index.html} TiposAlmacenamientos}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|codigo|Código|String|100|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre|Nombre del tipo de la caja|String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|descripcion|Descripción|String|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|link|Link|String|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ARCHIVO INACTIVO/Almacenamientos.html}1.0 Almacenamientos}}|1..*:Almacenamientos|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

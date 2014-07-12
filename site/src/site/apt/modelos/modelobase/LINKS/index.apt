@@ -1,0 +1,13 @@
+{{{../index.html} LINKS}} {{{https://github.com/nelsonfer1/modelo_base/blob/master/uml/links/links.jpg} img}}
+
+versión:rc3-1.0.0
+
+*----+-------+
+||No.||ENTIDAD||
+*----+-------+
+|1.0|{{{./TiposLinks.html}TiposLinks}}|
+*----+-------+
+|2.0|{{{./Links.html}Links}}|
+*----+-------+
+|3.0|{{{./Www.html}Www}}|
+*----+-------+

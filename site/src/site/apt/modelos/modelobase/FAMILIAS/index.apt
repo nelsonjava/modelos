@@ -1,0 +1,15 @@
+{{{../index.html} FAMILIAS}} {{{https://github.com/nelsonfer1/modelo_base/blob/master/uml/familias/familias.jpg} img}}
+
+versión:rc3-1.0.0
+
+*----+-------+
+||No.||ENTIDAD||
+*----+-------+
+|1.0|{{{./Parentescos.html}Parentescos}}|
+*----+-------+
+|2.0|{{{./Familiares.html}Familiares}}|
+*----+-------+
+|3.0|{{{./Familias.html}Familias}}|
+*----+-------+
+|4.0|{{{./PersonasFamilias.html}PersonasFamilias}}|
+*----+-------+

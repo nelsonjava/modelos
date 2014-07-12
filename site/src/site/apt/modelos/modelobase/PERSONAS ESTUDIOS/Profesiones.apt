@@ -1,0 +1,15 @@
+{{{../index.html} Profesiones}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|codigo||String|210|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre||String|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../PERSONAS ESTUDIOS/TiposEstudios.html}1.0 TiposEstudios}}|*..1:TiposEstudios|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../PERSONAS ESTUDIOS/Estudios.html}2.0 Estudios}}|1..*:Estudios|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

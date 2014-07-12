@@ -1,0 +1,13 @@
+{{{../index.html} NITS}} {{{https://github.com/nelsonfer1/modelo_base/blob/master/uml/nits/nits.jpg} img}}
+
+versión:rc3-1.0.0
+
+*----+-------+
+||No.||ENTIDAD||
+*----+-------+
+|1.0|{{{./Tiposld.html}Tiposld}}|
+*----+-------+
+|2.0|{{{./Id.html}Id}}|
+*----+-------+
+|3.0|{{{./Nits.html}Nits}}|
+*----+-------+

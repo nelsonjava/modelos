@@ -1,0 +1,21 @@
+{{{../index.html} Rutas}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|codigo||String(100)|null|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre||String(250)|null|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|observaciones||Text|null|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../DIRECCIONES/TiposRutas.html}0.0 TiposRutas}}|*..1:TiposRutas|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../DIRECCIONES/Direcciones.html}0.0 Direcciones}}|1..1:Direcciones|Uno a Uno Bidireccional No.2|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../DIRECCIONES/Direcciones.html}0.0 Direcciones}}|1..*:Direcciones|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../DIRECCIONES/RutasDirecciones.html}4.0 RutasDirecciones}}|1..*:RutasDirecciones|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

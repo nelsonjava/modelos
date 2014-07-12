@@ -1,0 +1,13 @@
+{{{../index.html} ARCHIVOS}} {{{https://github.com/nelsonfer1/modelo_base/blob/master/uml/archivos/archivos.jpg} img}}
+
+versión:rc3-1.0.1
+
+*----+-------+
+||No.||ENTIDAD||
+*----+-------+
+|1.0|{{{./DirectotiosArchivos.html}DirectotiosArchivos}}|
+*----+-------+
+|2.0|{{{./Files.html}Files}}|
+*----+-------+
+|3.0|{{{./Archivos.html}Archivos}}|
+*----+-------+

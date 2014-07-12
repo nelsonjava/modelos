@@ -1,0 +1,19 @@
+{{{../index.html} TiposContenidos}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|codigo||String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre||String|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../WIKIS/TiposContenidos.html}1.0 TiposContenidos}}|1..*:TiposContenidos|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../WIKIS/TiposContenidos.html}2.0 TiposContenidos}}|*..1:TiposContenidos|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../ESTRUCTURAS ORGANIZACIONALES/EstructurasOrganizacionales.html}3.0 EstructurasOrganizacionales}}|*..1:EstructurasOrganizacionales|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../WIKIS/Contenidos.html}4.0 Contenidos}}|1..1:Contenidos|Uno a Uno Unidireccional No.1|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

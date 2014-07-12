@@ -1,0 +1,45 @@
+{{{../index.html} Direcciones}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|direccioncompleta||String|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|ubicacionBase||String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|prefijoBase||String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|ubicacionCruce||String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|prefijoCruce||String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|numeroCruce||String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|latitud||double|null|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|longitud||double|null|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|codigozip||String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|observaciones||Text|null|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../DIRECCIONES/Direcciones.html}1.0 Direcciones}}|1..*:Direcciones|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../DIRECCIONES/Direcciones.html}2.0 Direcciones}}|*..1:Direcciones|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../DIRECCIONES/TiposEdificaciones.html}3.0 TiposEdificaciones}}|*..1:TiposEdificaciones|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../DIVISIONES POLITICAS/Localidades.html}4.0 Localidades}}|*..1:Localidades|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../DIRECCIONES/Rutas.html}5.0 Rutas}}|1..1:Rutas|Uno a Uno Unidireccional No.1|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../DIRECCIONES/Rutas.html}6.0 Rutas}}|*..1:Rutas|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../DIRECCIONES/RutasDirecciones.html}7.0 RutasDirecciones}}|1..*:RutasDirecciones|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../DIRECCIONES/Direcciones.html}8.0 Direcciones}}|*..1:Direcciones|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../TELEFONOS/Telefonos.html}9.0 Telefonos}}|*..1:Telefonos|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

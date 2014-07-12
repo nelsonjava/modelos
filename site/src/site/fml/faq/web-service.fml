@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<faqs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://maven.apache.org/FML/1.0"
+  xsi:schemaLocation="http://maven.apache.org/FML/1.0 http://maven.apache.org/xsd/fml-1.0.xsd"
+  title="Frequently Asked Technical Questions">
+
+  <part id="faq">
+  
+    <faq id="RESTful endpoints">
+      <question>RESTful endpoints</question>
+      <answer>URLs en donde se expondrán los servicios
+      </answer>
+    </faq>
+
+    <faq id="domain-Model">
+      <question>Domain Model</question>
+      <answer>
+        <p>
+         Un modelo de dominio es un modelo de objetos de un dominio del problema. Los elementos de un modelo de dominio son
+         las clases y las relaciones entre las clases.
+        </p>
+        <p>
+         Un modelo de dominio describe todos los tipos de objetos del dominio del problema y las relaciones a traves de sus instancias
+        </p>
+      </answer>
+    </faq>
+
+    <faq id="Cardinalidad">
+      <question>Cardinalidad</question>
+      <answer>
+        <p>
+          La <code>cardinalidad</code> expresa cuántas del conjunto de entidades de un extremo de la relación están relacionadas
+          con cuántas entidades del conjunto del otro extremo.
+        </p>
+        <p>Los tipos de cardinalidades sons:</p>
+        <ol>
+          <li>Uno a Uno</li>
+          <li>Uno a Muchos</li>
+          <li>Muchos a Uno</li>
+          <li>Muchos a Muchos</li>
+        </ol>
+      </answer>
+    </faq>
+
+  </part>
+</faqs>

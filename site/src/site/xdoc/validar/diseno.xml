@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<document>
+
+  <body>
+
+    <section name="DISEÑO DEL MODELO:">
+        LISTA DE CHEQUEO v:ga-1.0.0
+        <table>
+          <tr>
+            <th width="70%">PREGUNTAS</th>
+            <th width="2%">C</th>
+            <th width="28%">OBSERVACIONES</th>
+          </tr>
+          <tr>
+            <th width="70%">MODELO:</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- La versión del modelo es aceptable.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- En nombre del modelo es descriptivo y no causa confusión.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- La documentación del modelo es adecuada y clara.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El nombre del modelo esta en mayúsculas en el Workspace.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El modelo cuenta con su respectivo archivo fuente.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El archivo .jpg del modelo esta actualizado.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Los archivos del modelo se encuentran en el directorio estandar.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El nombre del directorio esta en minúsculas y nombre compuesto separado por -</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Los archivos del modelo se encuentran en https://www.github.com/</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El diseño del modelo se encuentra independiente a los demás modelos.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- La identificación del modelo esta bien definida:paquete,código,versión,fecha.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">NOTACION GRAFICA:</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- La notación gráfica de todo el modelo esta correcta.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Las clases importadas de otros modelos su notación gráfica esta correcta.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- La notación gráfica de la navegabilidad,cardinalidad y opcionalidad esta correcta.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Las relaciones unitarias su notación gráfica esta correcta.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Las líneas de todas las relaciones estan rectas.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">CLASES:</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Los nombres de las clases estan estan definidas en sustantivos pluralizados.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El nombre de las clases cumple la sintaxis: la primera letra en mayúscula igualmente para los nombre compuestos.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Las clases estan enumeradas de una forma adecuada.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">RELACIONES:</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- La navegabilidad del modelo esta correcta.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- La cardinalidad del modelo esta correcta.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- La optionalidad del modelo esta correcta.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- La unidirecionalidad y bidirecionaledad de la navegabilidad esta correcta.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Las relaciones muchos a muchos estan representadas en el modelo y se cumple la sintaxis: el nombre debe empezar por las palabras rel_nombre_tabla.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- No falta ninguna relación en el modelo de acuerdo al diseño de las reglas del negocio.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">ATRIBUTOS:</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- La lleve primaria(s) su nombre es id y esta marcada como tal.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Los nombres de los atributos estan sin tíldes.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Los nombres de los atributos cumple la sintaxis: la primera letra en minúscula y el nombre compuesto empieza con mayúscula.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El orden de los atributos es adecuado.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- No existe ningún atributo perteneciente a una relación</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Los atributos codigos tienen longitud de 100</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Los atributos nombres tienen longitud de 250</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Los atributos observacion son de longitudo 250</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Los atributos observaciones son de tipo Text</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Cada atributo tiene especificado:tipo,longitud,null,único</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El tipo de los atributos esta correcto.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- La longitud de los atributos esta correcta y esta definida en 3 dígitos.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El valor null de los atributos esta correcto.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El valor único de los atributos esta correcto.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Los atributos de tipo Date estan correctos.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Los atributos de tipo Datetime estan correctos.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Los atributos lógicos su tipo es boolean, es decir la primera letra del tipo esta en minúscula.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- El atributo orden NO debe estar definido en ninguna clase.</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Los atributos lógicos cumplen la sintaxis:SiCampo</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Falta definir la sintaxis para los atributos float</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Se requieren atributos de tipo Text</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+          <tr>
+            <th width="70%">- Se requieren atributos de tipo byte</th>
+            <th width="2%"></th>
+            <th width="28%"></th>
+          </tr>
+        </table>
+    </section>
+
+  </body>
+
+</document>
+
+

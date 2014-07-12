@@ -1,0 +1,13 @@
+{{{../index.html} LMD}} {{{https://github.com/nelsonfer1/iso/blob/master/uml/LMD/LMD.jpg} img}}
+
+versión:rc1-1.0.0
+
+*----+-------+
+||No.||ENTIDAD||
+*----+-------+
+|1.0|{{{./TiposDocumentos.html}TiposDocumentos}}|
+*----+-------+
+|2.0|{{{./Lmds.html}Lmds}}|
+*----+-------+
+|3.0|{{{./EstadosDocumentos.html}EstadosDocumentos}}|
+*----+-------+

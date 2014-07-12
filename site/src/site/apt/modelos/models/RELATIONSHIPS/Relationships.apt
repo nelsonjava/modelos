@@ -1,0 +1,37 @@
+{{{../index.html} Relationships}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|optionality|Opcionalidad de la relación|boolean|null|null|false|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|name|Objeto de la relación|string|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|mappedby|Campo propietario de la relación.|string|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|annotationsField|pendiente1|string|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|annotationsMethod|pendiente2|string|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|tabla|Tabla relación muchos a muchos|string|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|idTabla1|Campo1 relación muchos a muchos|string|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|idTabla2|Campo2 relación muchos a muchos|string|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|description|Descripción|string|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|observaciones|Observaciones|string|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../RELATIONSHIPS/Cardinalities.html}1.0 Cardinalities}}|*..1:Cardinalities|Muchos a Uno Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../RELATIONSHIPS/PropertiesAttributes.html}2.0 PropertiesAttributes}}|1..*:PropertiesAttributes|Uno a Muchos Bidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../RELATIONSHIPS/Entities.html}3.0 Entities}}|*..1:Entities|Muchos a Uno Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../RELATIONSHIPS/Entities.html}4.0 Entities}}|*..1:Entities|Muchos a Uno Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../RELATIONSHIPS/LinksModels.html}5.0 LinksModels}}|*..1:LinksModels|Muchos a Uno Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

@@ -1,0 +1,25 @@
+{{{../index.html} Opciones}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|codigo|Código de la opción|String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre|Nombre de la opción|String|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|wwwurl|Link de la opción|String|250|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|descripcion|Descripción de la opción|Text|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SISTEMAS/Opciones.html}1.0 Opciones}}|1..*:Opciones|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SISTEMAS/Opciones.html}2.0 Opciones}}|*..1:Opciones|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SISTEMAS/OpcionesSistemas.html}3.0 OpcionesSistemas}}|1..*:OpcionesSistemas|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../PERMISOS/Permisos.html}4.0 Permisos}}|*..1:Permisos|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SISTEMAS/TiposOpciones.html}5.0 TiposOpciones}}|*..1:TiposOpciones|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

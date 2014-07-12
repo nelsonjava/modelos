@@ -1,0 +1,19 @@
+{{{../index.html} Procesos}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|codigo|Código del Proceso|String|10|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre|Nombre del Proceso|String|100|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|observaciones|Observaciones|Text|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../PROCESOS/TiposProcesos.html}1.0 TiposProcesos}}|*..1:TiposProcesos|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LMD/Lmds.html}2.0 Lmds}}|1..*:Lmds|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../LMR/Lmrs.html}3.0 Lmrs}}|1..*:Lmrs|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

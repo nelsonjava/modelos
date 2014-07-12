@@ -1,0 +1,89 @@
+CD3
+
+ {{{http://in.relation.to/Bloggers/SeamNextAnnouncement}Seam.Next Announcement}}
+
+ {{{http://seamframework.org/Community/TheNextFewSeamReleases}The next few Seam releases}}
+
+ {{{https://repository.jboss.org/nexus/content/groups/public/org/jboss/seam/}Repository Jboss}}
+
+* <<RELEASED>>
+
+
+  [[1]] {{{http://docs.jboss.org/seam/3/}Index of /seam/3}}
+
+  [[1]] {{{https://repository.jboss.org/nexus/content/groups/public/org/jboss/seam/seam-bom/}seam-bom}}
+
+  [[1]] {{{http://seamframework.org/Community/Seam310Beta5Released}Seam 3.1.0.Beta5 Released}}
+
+  [[1]] {{{http://seamframework.org/Community/Seam31Beta4Released}Seam 3.1.0 Beta 4 Released}}
+
+
+* <<Examples>>
+
+  * {{{https://community.jboss.org/blogs/lightguardjp/2012/02/24/seam-3-examples}Seam 3 Examples}}
+
+  * {{{https://github.com/mojavelinux/socialize-workshop}socialize-workshop}}
+  
+  * {{{http://www.infoq.com/news/2012/04/seam-deltaspike}The Future Of JBoss Seam And Apache DeltaSpike}}  
+
+
+* <<ARTICULOS>>
+
+  * {{{http://www.genbetadev.com/desarrollo-web/disenando-tu-nuevo-proyecto-web-con-bootstrap-2-0}Diseñando tu nuevo proyecto web con Bootstrap 2.0}}
+
+  * {{{http://blogs.atlassian.com/2012/01/modern-principles-in-web-development/}Modern Principles in Web Development}}
+
+
+* <<SLIDES>>
+
+  [[1]] {{{http://www.slideshare.net/ikercanarias/frameworks-j2ee}FRAMEWORKS J2EE}}
+
+* <<JSF>>
+
+  [[1]] {{{http://blog.neodoo.es/maznar/java/soporte-http-get-con-jsf-yo-seam-3/}Soporte HTTP GET con JSF y/o Seam 3}}
+
+
+* <<MIGRACION>>
+
+  [[1]] {{{http://blog.neodoo.es/maznar/java/migracion-de-seam2-jsf-1-facelets-richfaces-3-jboss-5-a-seam3-weld-jsf-2-richfaces-4-jboss-6-i/}Migración Parte I}}
+
+  [[1]] {{{http://blog.neodoo.es/maznar/java/migracion-de-seam2-jsf-1-facelets-richfaces-3-jboss-5-a-seam3-weld-jsf-2-richfaces-4-jboss-6-ii//}Migración Parte II}}
+
+
+* <<GRUPOS DE USUARIOS>>
+
+  [[1]] {{{http://www.javamexico.org/}Java México es una comunidad de desarrolladores mexicanos en el lenguaje Java.}}
+
+
+* <<PROJECTS>>
+
+  * {{{http://immutant.org/}Immutant is an application server for Clojure built on top of JBoss AS7}}
+
+
+* <<LINKS DE INTERES>>
+
+  * {{{http://www.atlassian.com/es/}JIRA}}
+
+* <<FORUM>>
+
+  * {{{https://community.jboss.org/en/seam}FORUM}}
+
+* <<SocialPM in Produccion>>
+
+  * {{{http://ocpsoft.org/socialpm/}SocialPM}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

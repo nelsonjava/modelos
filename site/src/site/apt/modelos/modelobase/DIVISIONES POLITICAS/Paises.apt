@@ -1,0 +1,17 @@
+{{{../index.html} Paises}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|codigo|Código del País|String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|nombre|Nombre del País|String|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|codigoDane|Código Dane del País|String|100|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../DIVISIONES POLITICAS/Departamentos.html}1.0 Departamentos}}|1..*:Departamentos|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../DIVISIONES POLITICAS/Continentes.html}2.0 Continentes}}|*..1:Continentes|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

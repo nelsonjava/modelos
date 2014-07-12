@@ -1,0 +1,21 @@
+{{{../index.html} DIRECCIONES}} {{{https://github.com/nelsonfer1/modelo_base/blob/master/uml/direcciones/direcciones.jpg} img}}
+
+versión:rc3-1.0.0
+
+*----+-------+
+||No.||ENTIDAD||
+*----+-------+
+|1.0|{{{./TiposEdificaciones.html}TiposEdificaciones}}|
+*----+-------+
+|2.0|{{{./Direcciones.html}Direcciones}}|
+*----+-------+
+|3.0|{{{./RutasDirecciones.html}RutasDirecciones}}|
+*----+-------+
+|4.0|{{{./Rutas.html}Rutas}}|
+*----+-------+
+|5.0|{{{./TiposRutas.html}TiposRutas}}|
+*----+-------+
+|6.0|{{{./TiposDirecciones.html}TiposDirecciones}}|
+*----+-------+
+|7.0|{{{./Direccioness.html}Direccioness}}|
+*----+-------+

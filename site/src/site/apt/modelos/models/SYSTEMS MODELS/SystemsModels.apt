@@ -1,0 +1,15 @@
+{{{../index.html} SystemsModels}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|name||string|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|observaciones||string|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SYSTEMS MODELS/Domains.html}1.0 Domains}}|1..*:Domains|Uno a Muchos Bidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SYSTEMS MODELS/LinksModels.html}2.0 LinksModels}}|1..*:LinksModels|Uno a Muchos Bidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

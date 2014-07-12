@@ -1,0 +1,21 @@
+{{{../index.html} SISTEMAS}} {{{https://github.com/nelsonfer1/modelo_base/blob/master/uml/sistemas/sistemas.jpg} img}}
+
+versión:rc3-1.0.0
+
+*----+-------+
+||No.||ENTIDAD||
+*----+-------+
+|1.0|{{{./TiposSistemas.html}TiposSistemas}}|
+*----+-------+
+|2.0|{{{./Sistemas.html}Sistemas}}|
+*----+-------+
+|3.0|{{{./Datos.html}Datos}}|
+*----+-------+
+|4.0|{{{./Emps.html}Emps}}|
+*----+-------+
+|5.0|{{{./OpcionesSistemas.html}OpcionesSistemas}}|
+*----+-------+
+|6.0|{{{./Opciones.html}Opciones}}|
+*----+-------+
+|7.0|{{{./TiposOpciones.html}TiposOpciones}}|
+*----+-------+

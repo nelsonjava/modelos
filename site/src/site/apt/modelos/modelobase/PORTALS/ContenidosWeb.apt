@@ -1,0 +1,33 @@
+{{{../index.html} ContenidosWeb}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|titulo||String|200|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|subTitulo||String|200|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|contenido||Text|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|fechaInicial||Date|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|fechaFinal||Date|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|autor||String|200|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../PORTALS/PlantillasWeb.html}1.0 PlantillasWeb}}|*..1:PlantillasWeb|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../PORTALS/Popups.html}2.0 Popups}}|*..1:Popups|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../PORTALS/ArchivosWeb.html}3.0 ArchivosWeb}}|1..*:ArchivosWeb|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../PORTALS/TiposContenidosWeb.html}4.0 TiposContenidosWeb}}|*..1:TiposContenidosWeb|Muchos a Uno Unidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../PORTALS/PaginasWeb.html}5.0 PaginasWeb}}|1..*:PaginasWeb|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../PORTALS/AreasWeb.html}6.0 AreasWeb}}|1..*:AreasWeb|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../PORTALS/VistasWeb.html}7.0 VistasWeb}}|1..*:VistasWeb|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

@@ -1,0 +1,21 @@
+{{{../index.html} Roles}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|name|Nombre del Rol|String|250|null|false|true|
+*-----------+---------------------+--------+----+----+-----+------+
+|conditional|Condicional|boolean|null|null|false|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../USUARIOS/Roles.html}1.0 Roles}}|*..*:Roles|Muchos a Muchos Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../USUARIOS/Roles.html}2.0 Roles}}|*..*:Roles|Muchos a Muchos Bidireccional No.4|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../USUARIOS/Usuarios.html}3.0 Usuarios}}|*..*:Usuarios|Muchos a Muchos Bidireccional No.4|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../PERMISOS/Permisos.html}4.0 Permisos}}|1..*:Permisos|Uno a Muchos Bidireccional No.6|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../SISTEMAS/Sistemas.html}5.0 Sistemas}}|*..*:Sistemas|Muchos a Muchos Bidireccional No.4|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

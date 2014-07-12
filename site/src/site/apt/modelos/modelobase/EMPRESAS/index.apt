@@ -1,0 +1,15 @@
+{{{../index.html} EMPRESAS}} {{{https://github.com/nelsonfer1/modelo_base/blob/master/uml/empresas/empresas.jpg} img}}
+
+versión:rc3-1.0.0
+
+*----+-------+
+||No.||ENTIDAD||
+*----+-------+
+|1.0|{{{./Empresas.html}Empresas}}|
+*----+-------+
+|2.0|{{{./Empleados.html}Empleados}}|
+*----+-------+
+|3.0|{{{./Cargos.html}Cargos}}|
+*----+-------+
+|4.0|{{{./TiposCargos.html}TiposCargos}}|
+*----+-------+

@@ -1,0 +1,19 @@
+{{{../index.html} Cardinalities}}
+
+*-----------+---------------------+--------+----+----+-----+------+
+||CAMPO    ||DESCRIPCION         ||TIPO   ||LEN||DEC||NULL||UNICO||
+*-----------+---------------------+--------+----+----+-----+------+
+|name|Nombre del tipo de cardinalidad|string|250|null|false|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|cardinality|Símbolo de la cardinaldad|string|250|null|false|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|unidireccional|Navegavilidad de la relación|boolean|null|null|false|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|observaciones|Observaciones|string|null|null|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|RELACIONES:| | | | | | |
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../RELATIONSHIPS/Relationships.html}1.0 Relationships}}|1..*:Relationships|Uno a Muchos Bidireccional No.5|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+
+|{{{../RELATIONSHIPS/LinksModels.html}2.0 LinksModels}}|*..1:LinksModels|Muchos a Uno Unidireccional No.3|0|0|true|false|
+*-----------+---------------------+--------+----+----+-----+------+

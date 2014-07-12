@@ -1,0 +1,11 @@
+{{{../index.html} RELATIONSHIPS}} {{{https://www.dropbox.com/s/zb4jsb11l00lfy4/relationships_rc2.jpg} img}}
+
+versión:rc2-1.0.0
+
+*----+-------+
+||No.||ENTIDAD||
+*----+-------+
+|1.0|{{{./Cardinalities.html}Cardinalities}}|
+*----+-------+
+|2.0|{{{./Relationships.html}Relationships}}|
+*----+-------+
